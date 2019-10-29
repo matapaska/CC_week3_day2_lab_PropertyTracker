@@ -15,8 +15,12 @@ property1 = Property.new({
     'year_built' => 1900
     })
 
+    # property2.save()
+    # property1.save()
 
   binding.pry
 
 
-  nil  
+
+
+  nil
